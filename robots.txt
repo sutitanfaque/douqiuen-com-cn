@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sutitanfaque.github.io/douqiuen-com-cn/sitemap.xml
